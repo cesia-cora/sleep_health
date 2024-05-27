@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/Pandas-2.2.2-%23?style=for-the-badge&color=%239D818B)
+![Static Badge](https://img.shields.io/badge/ScikitLearn-1.4.2-%23?style=for-the-badge&color=%23475387)
+![Static Badge](https://img.shields.io/badge/Matplotlib-3.8.4-%23?style=for-the-badge&color=%23909C86)
+![Static Badge](https://img.shields.io/badge/Seaborn-0.13.2-%23?style=for-the-badge&color=%23796969)
+
 # Sleep Health Analysis
 
 ## Overview
